@@ -1663,3 +1663,12 @@ select:focus-visible {
     margin-top: 0;
     margin-bottom: 0;
 }
+
+
+
+
+
+
+.mobile-navigation-menu.web-app div {
+    width: 100%;
+}
